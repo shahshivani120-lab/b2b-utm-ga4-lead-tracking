@@ -1,0 +1,2 @@
+lead_id,date,first_touch_source,first_touch_medium,first_touch_campaign,first_touch_content,landing_page,enquiry_type (form / whatsapp / call),company,company_size,fit (good / ok / poor),qualified (y/n),demo_booked (y/n),became_customer (y/n),deal_value,owner,notes
+L001,2026-11-22,facebook,paid-social,free-hardware-offer,hook-free-hardware,/pricing,whatsapp,,,,,,,,,
