@@ -1,2 +1,2 @@
-lead_id,date,first_touch_source,first_touch_medium,first_touch_campaign,first_touch_content,landing_page,enquiry_type (form / whatsapp / call),company,company_size,fit (good / ok / poor),qualified (y/n),demo_booked (y/n),became_customer (y/n),deal_value,owner,notes
-L001,2026-11-22,facebook,paid-social,free-hardware-offer,hook-free-hardware,/pricing,whatsapp,,,,,,,,,
+lead_id,date,first_utm_source,first_utm_medium,first_utm_campaign,last_utm_source,last_utm_medium,landing_page,enquiry_type (form / whatsapp / call / email),company,company_size,industry,job_title,fit_score (0-50),intent_score (0-50),total_score,status (SQL / MQL / not qualified),demo_booked (y/n),customer (y/n),deal_value,owner,notes
+L001,2026-11-22,linkedin,organic-social,founder-linkedin,google,cpc,/blog/cloud-costs,form,Example Co,120,Logistics,Head of IT,45,35,80,SQL,y,n,,,EXAMPLE row (illustrative)
